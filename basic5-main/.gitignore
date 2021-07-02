@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#Ignore config files
+/Config/
+
 # Compiled Object files
 *.slo
 *.lo
